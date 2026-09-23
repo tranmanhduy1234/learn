@@ -1,3 +1,8 @@
 hcằeqhoadw3gssaSssdasdws
 sds
+<<<<<<< New base: V
 sss
+||||||| Common ancestor
+=======
+sssfew
+>>>>>>> Current commit: nb
